@@ -5,12 +5,6 @@
 - 🤔 Escrevo artigos regularmente em https://www.linkedin.com/in/lucas-sodr%C3%A9/ ...
 - 💬 Pergunte-me sobre React, JavaScript, Next Js, NodeJs, Typescript ...
 - 📫 Entre em contato comigo em lucas10sodre@gmail.com...
-
-<div>
-  <a href="https://github.com/Lucas-Magalhaes-Sodre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Magalhaes-Sodre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Magalhaes-Sodre&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
   <h3 align="center" >Languages and Tools:</h3>
 <div align="center" style="display: inline_block"><br> 
